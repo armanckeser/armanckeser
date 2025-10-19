@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except these files
+!README.md
+!pycon_notes.md
+!.gitignore
