@@ -143,13 +143,16 @@ Resources I've found useful. No grand claims, just sharing what I've liked over 
 
 ## 🛠️ Tools & Workflows
 
-### Dev Tools I Use
+### Tools I Use
 
 - [PyCharm](https://www.jetbrains.com/pycharm/) - My IDE
 - [Raycast](https://www.raycast.com/) - macOS launcher
 - [Hyperkey](https://hyperkey.app/) - Keyboard modifier
 - [Homerow](https://www.homerow.app/) - Keyboard navigation
 - [GitButler](https://gitbutler.com/) - Git client
+- [Vimium C](https://chromewebstore.google.com/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?pli=1) - Keyboard navigation for browser
+- [Zen](https://zen-browser.app/) - Distraction-free browser
+- [Kvaesitso](https://github.com/MM2-0/Kvaesitso) - Best android launcher
 
 ### Self-Hosting
 
@@ -162,6 +165,7 @@ Resources I've found useful. No grand claims, just sharing what I've liked over 
 - [devaslife (Takuya)](https://www.youtube.com/@devaslife) - Calm engineering videos, thoughtful FE
   development, sustainable indie app development
 - [Fireship](https://www.youtube.com/@Fireship) - Quick tech overviews (older content better)
+- [TLDR](https://tldr.tech/) - Tech newsletter
 
 ---
 
@@ -185,3 +189,5 @@ Resources I've found useful. No grand claims, just sharing what I've liked over 
 - [My GitHub Stars](https://github.com/armanckeser?tab=stars) - Software I find interesting
 - Digital gardens I
   follow: [ssp.sh](https://www.ssp.sh/brain/), [tolin.ski](https://tolin.ski/), [nerdy.dev](https://nerdy.dev/notebook/)
+- [History of OOP](https://youtu.be/wo84LFzx5nI)
+- [Scaling Up!](https://www.youtube.com/watch?v=HChxU74ZwbE) - Talk about software at scale
