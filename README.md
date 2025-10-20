@@ -69,6 +69,7 @@ Resources I've found useful. No grand claims, just sharing what I've liked over 
       that, [watch this talk he gave](https://www.youtube.com/watch?v=e0KJlYe2Rjk).
     - [Prototype Testing](https://www.svpg.com/prototype-testing/)
     - [The Most Important Thing](https://www.svpg.com/the-most-important-thing/)
+    - [Running design sprints](https://www.gv.com/sprint/)
 - [Y Combinator](https://www.ycombinator.com/)
 
 ---
