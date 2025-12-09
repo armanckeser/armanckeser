@@ -1,6 +1,6 @@
 # Resource Collection
 
-Resources I've found useful. No grand claims, just sharing what I've liked over time.
+Resources I've found useful. 
 
 ---
 
