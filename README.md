@@ -24,10 +24,11 @@ Resources I've found useful. No grand claims, just sharing what I've liked over 
 - [devhints.io](https://devhints.io/) - Collection of cheatsheets
 - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 - [Git Tips and Tricks](https://blog.gitbutler.com/git-tips-and-tricks/) - Talk by GitHub co-founder
+- [Julia Evans](https://jvns.ca/) - Tools, terminals, systems, explanations of how things work
 
 ### Python
 
-- [Julia Evans](https://jvns.ca/) - Tools, terminals, systems, explanations of how things work
+- [Python code quality for beginners](https://realpython.com/python-code-quality/)
 - [Bite Code](https://www.bitecode.dev/) - Python best practices
 - [Trey Hunner](https://treyhunner.com/) - Python fundamentals
 - [Hynek Schlawack](https://www.youtube.com/@The_Hynek) - Domain-driven design, clean code, nuanced
@@ -51,14 +52,17 @@ Resources I've found useful. No grand claims, just sharing what I've liked over 
 
 ### Books
 
-| Title                                      | Author                | Notes                                                                                             | Rating |
-|--------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------|--------|
-| Shape Up                                   | Ryan Singer           | Methods feel natural, helped structure my thinking and team collaboration                         | ⭐⭐⭐⭐   |
-| Inspired                                   | Marty Cagan           | Hits the nail on the head on what makes some products succeed and others fail                     | ⭐⭐⭐⭐   |
-| The Startup Owner's Manual                 | Steve Blank, Bob Dorf | Framework for understanding companies, validates or clarifies vague ideas. Not just for founders. | ⭐⭐⭐⭐⭐  |
-| Hooked                                     | Nir Eyal              | Habit-forming products, gave me tons of ideas                                                     | ⭐⭐⭐⭐   |
-| The Principles of Product Development Flow | Donald Reinertsen     | Tough read but eye opening ideas and take on common problems                                      | ⭐⭐⭐⭐   |
-| Don't Make Me Think (Revised)              | Steve Krug            | Usability fundamentals                                                                            | ⭐⭐⭐⭐   |
+| Title                                      | Author                | Notes                                                                                                | Rating |
+|--------------------------------------------|-----------------------|------------------------------------------------------------------------------------------------------|--------|
+| Shape Up                                   | Ryan Singer           | Methods feel natural, helped structure my thinking and team collaboration                            | ⭐⭐⭐⭐   |
+| Inspired                                   | Marty Cagan           | Hits the nail on the head on what makes some products succeed and others fail                        | ⭐⭐⭐⭐   |
+| The Startup Owner's Manual                 | Steve Blank, Bob Dorf | Framework for understanding companies, validates or clarifies vague ideas. Not just for founders.    | ⭐⭐⭐⭐⭐  |
+| Hooked                                     | Nir Eyal              | Habit-forming products, gave me tons of ideas                                                        | ⭐⭐⭐⭐   |
+| The Principles of Product Development Flow | Donald Reinertsen     | Tough read but eye opening ideas and take on common problems                                         | ⭐⭐⭐⭐   |
+| Don't Make Me Think (Revised)              | Steve Krug            | Usability fundamentals                                                                               | ⭐⭐⭐⭐   |
+| Sprint                                     | Jake Knapp            | Very fun to read, teaches really good principles when it comes to making product decisions as a team | ⭐⭐⭐⭐   |
+| Rework                                     | Jason Fried           | Short, anecdotal, but the anecdotes confirm what many other books on the subject are arguing for.    |        |
+
 
 ### Resources
 
@@ -76,21 +80,23 @@ Resources I've found useful. No grand claims, just sharing what I've liked over 
 
 ## 🤝 Working with Teams
 
-| Title                           | Author                 | Notes                             | Rating |
-|---------------------------------|------------------------|-----------------------------------|--------|
-| Crucial Conversations           | Kerry Patterson et al. | Tools for high-stakes discussions | ⭐⭐⭐⭐⭐  |
-| The Five Dysfunctions of a Team | Patrick Lencioni       | Short, interesting, actionable    | ⭐⭐⭐⭐⭐  |
+| Title                                 | Author                 | Notes                                 | Rating |
+|---------------------------------------|------------------------|---------------------------------------|--------|
+| Crucial Conversations                 | Kerry Patterson et al. | Tools for high-stakes discussions     | ⭐⭐⭐⭐⭐  |
+| The Five Dysfunctions of a Team       | Patrick Lencioni       | Short, interesting, actionable        | ⭐⭐⭐⭐⭐  |
+| Team: Getting Things Done with Others | David Allen            | Gives some good tools and perspective |        |
 
 ---
 
 ## 🚀 Case Studies & Wisdom
 
-| Title                            | Author       | Notes                                              | Rating |
-|----------------------------------|--------------|----------------------------------------------------|--------|
-| The Hard Thing About Hard Things | Ben Horowitz | Crisis moments and what was done to save companies | ⭐⭐⭐⭐   |
-| Build                            | Tony Fadell  | iPod/iPhone lessons from inside Apple              | ⭐⭐⭐⭐   |
-| High Growth Handbook             | Elad Gil     | Interviews with knowledgeable founders             | ⭐⭐⭐⭐   |
-| Creativity, Inc.                 | Ed Catmull   | Pixar culture and creative management              | ⭐⭐⭐⭐⭐  |
+| Title                            | Author             | Notes                                                                                                                                                                                                         | Rating |
+|----------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| The Hard Thing About Hard Things | Ben Horowitz       | Crisis moments and what was done to save companies                                                                                                                                                            | ⭐⭐⭐⭐   |
+| Build                            | Tony Fadell        | iPod/iPhone lessons from inside Apple                                                                                                                                                                         | ⭐⭐⭐⭐   |
+| High Growth Handbook             | Elad Gil           | Interviews with knowledgeable founders                                                                                                                                                                        | ⭐⭐⭐⭐   |
+| Creativity, Inc.                 | Ed Catmull         | Pixar culture and creative management                                                                                                                                                                         | ⭐⭐⭐⭐⭐  |
+| Switch                           | Chip and Dan Heath | Maps out change in scale and the anecdotes were great to read about. Could have had better guidance around finding the right combination, and I would love to read an updated version, but enjoyable overall. | ⭐⭐⭐⭐   |
 
 ### Resources
 
