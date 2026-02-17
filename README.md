@@ -1,6 +1,16 @@
 # Resource Collection
 
-Resources I've found useful. 
+Resources I've found useful.
+
+- [Writing Better Software](#-writing-better-software)
+- [Building Products](#-building-products)
+- [Working with Teams](#-working-with-teams)
+- [Case Studies & Wisdom](#-case-studies--wisdom)
+- [Personal Effectiveness](#-personal-effectiveness)
+- [Frontend & Design](#-frontend--design)
+- [Game Development & Visual Learning](#-game-development--visual-learning)
+- [Tools & Workflows](#-tools--workflows)
+- [Links](#-links)
 
 ---
 
@@ -22,13 +32,17 @@ Resources I've found useful.
 - [Martin Fowler](https://martinfowler.com/) - Software design patterns and refactoring
 - [Simon Willison](https://simonwillison.net/) - Engineering notes and explorations on everything
 - [devhints.io](https://devhints.io/) - Collection of cheatsheets
-- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
+- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/) - Database fundamentals
+  from first principles — storage engines, ACID, distributed systems
 - [Git Tips and Tricks](https://blog.gitbutler.com/git-tips-and-tricks/) - Talk by GitHub co-founder
 - [Julia Evans](https://jvns.ca/) - Tools, terminals, systems, explanations of how things work
+- [History of OOP](https://youtu.be/wo84LFzx5nI) - How OOP came to be and evolved
+- [Scaling Up!](https://www.youtube.com/watch?v=HChxU74ZwbE) - Talk about software at scale
 
 ### Python
 
-- [Python code quality for beginners](https://realpython.com/python-code-quality/)
+- [Python code quality for beginners](https://realpython.com/python-code-quality/) - Code quality best
+  practices and tooling — linters, formatters, type checkers
 - [Bite Code](https://www.bitecode.dev/) - Python best practices
 - [Trey Hunner](https://treyhunner.com/) - Python fundamentals
 - [Hynek Schlawack](https://www.youtube.com/@The_Hynek) - Domain-driven design, clean code, nuanced
@@ -61,6 +75,8 @@ Resources I've found useful.
 | The Principles of Product Development Flow | Donald Reinertsen     | Tough read but eye opening ideas and take on common problems                                         | ⭐⭐⭐⭐   |
 | Don't Make Me Think (Revised)              | Steve Krug            | Usability fundamentals                                                                               | ⭐⭐⭐⭐   |
 | Sprint                                     | Jake Knapp            | Very fun to read, teaches really good principles when it comes to making product decisions as a team | ⭐⭐⭐⭐   |
+| Obviously Awesome                          | April Dunford         | Practical framework for product positioning that makes customers understand your value immediately   | ⭐⭐⭐⭐⭐  |
+| Sales Pitch                                | April Dunford         | How to craft compelling narratives that differentiate your product and resonate with buyers          | ⭐⭐⭐⭐   |
 | Rework                                     | Jason Fried           | Short, anecdotal, but the anecdotes confirm what many other books on the subject are arguing for.    |        |
 
 
@@ -74,7 +90,8 @@ Resources I've found useful.
     - [Prototype Testing](https://www.svpg.com/prototype-testing/)
     - [The Most Important Thing](https://www.svpg.com/the-most-important-thing/)
     - [Running design sprints](https://www.gv.com/sprint/)
-- [Y Combinator](https://www.ycombinator.com/)
+- [Y Combinator](https://www.ycombinator.com/) - Founder essays, Startup School, and curated
+  entrepreneurship content
 
 ---
 
@@ -82,9 +99,10 @@ Resources I've found useful.
 
 | Title                                 | Author                 | Notes                                 | Rating |
 |---------------------------------------|------------------------|---------------------------------------|--------|
-| Crucial Conversations                 | Kerry Patterson et al. | Tools for high-stakes discussions     | ⭐⭐⭐⭐⭐  |
-| The Five Dysfunctions of a Team       | Patrick Lencioni       | Short, interesting, actionable        | ⭐⭐⭐⭐⭐  |
-| Team: Getting Things Done with Others | David Allen            | Gives some good tools and perspective |        |
+| Crucial Conversations                 | Kerry Patterson et al. | Tools for high-stakes discussions                                                                                                                                                    | ⭐⭐⭐⭐⭐  |
+| The Five Dysfunctions of a Team       | Patrick Lencioni       | Short, interesting, actionable                                                                                                                                                       | ⭐⭐⭐⭐⭐  |
+| Leading Without Authority             | Keith Ferrazzi         | Underrated book about collaboration — if you see a problem, solve it regardless of title. Influence and conflict resolution through the lens of solving business problems.            | ⭐⭐⭐⭐   |
+| Team: Getting Things Done with Others | David Allen            | Gives some good tools and perspective                                                                                                                                                |        |
 
 ---
 
@@ -97,10 +115,14 @@ Resources I've found useful.
 | High Growth Handbook             | Elad Gil           | Interviews with knowledgeable founders                                                                                                                                                                        | ⭐⭐⭐⭐   |
 | Creativity, Inc.                 | Ed Catmull         | Pixar culture and creative management                                                                                                                                                                         | ⭐⭐⭐⭐⭐  |
 | Switch                           | Chip and Dan Heath | Maps out change in scale and the anecdotes were great to read about. Could have had better guidance around finding the right combination, and I would love to read an updated version, but enjoyable overall. | ⭐⭐⭐⭐   |
+| Founders at Work                 | Jessica Livingston | Startup history, enjoyable                                                                                                                                                                                    |        |
+| Reset                            | Dan Heath          | Read as an update to Switch — less substantive but still good                                                                                                                                                 | ⭐⭐⭐    |
+| BE 2.0                           | Jim Collins        | Great but written for leaders of small to medium companies, maybe one day                                                                                                                                     | ⭐⭐⭐⭐   |
 
 ### Resources
 
-- [EO](https://www.youtube.com/@eoglobal)
+- [EO](https://www.youtube.com/@eoglobal) - Entrepreneurship insights, member interviews, and
+  leadership education
 
 ---
 
@@ -111,7 +133,8 @@ Resources I've found useful.
 | Atomic Habits              | James Clear     | Building good habits systematically | ⭐⭐⭐⭐   |
 | Deep Work                  | Cal Newport     | Focused work in a distracted world  | ⭐⭐⭐⭐   |
 | Four Thousand Weeks        | Oliver Burkeman | Time management for mortals         | ⭐⭐⭐⭐   |
-| Where Good Ideas Come From | Steven Johnson  | Natural history of innovation       | ⭐⭐⭐⭐   |
+| Where Good Ideas Come From | Steven Johnson  | Natural history of innovation                                                                                                                             | ⭐⭐⭐⭐   |
+| Business Made Simple       | Donald Miller   | Practical and prescriptive overview of all aspects of a business — pick and choose chapters. Could do without the self-promotion but the content is useful. | ⭐⭐⭐⭐   |
 
 ---
 
@@ -123,9 +146,12 @@ Resources I've found useful.
 - [Jake Archibald](https://jakearchibald.com/) - Browser internals and web platform
 - [Ahmad Shadeed](https://ishadeed.com/) - CSS and layout patterns
 - [Brian Lovin](https://brianlovin.com/) - Product design
-- [localghost.dev](https://localghost.dev/)
-- [Tailwind Labs](https://www.youtube.com/@TailwindLabs)
-- [Huntabyte](https://www.youtube.com/@Huntabyte)
+- [localghost.dev](https://localghost.dev/) - Web development, tech commentary, and interactive
+  projects
+- [Tailwind Labs](https://www.youtube.com/@TailwindLabs) - Tailwind CSS tutorials, feature demos, and
+  project builds
+- [Huntabyte](https://www.youtube.com/@Huntabyte) - Svelte and SvelteKit tutorials, live coding, and
+  modern SaaS development
 
 ---
 
@@ -176,25 +202,11 @@ Resources I've found useful.
 
 ---
 
-## 🔬 Research & Learning
-
-- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) - AI research summaries
-- [Quanta Magazine](https://www.youtube.com/@QuantaScienceChannel) - Math, physics, computer science
-  breakthroughs
-
----
-
-## 📚 Other Resources
-
-- [Founders at Work](https://www.goodreads.com/book/show/98233.Founders_at_Work) - Startup history,
-  enjoyable
-
----
-
 ## 🔗 Links
 
 - [My GitHub Stars](https://github.com/armanckeser?tab=stars) - Software I find interesting
 - Digital gardens I
   follow: [ssp.sh](https://www.ssp.sh/brain/), [tolin.ski](https://tolin.ski/), [nerdy.dev](https://nerdy.dev/notebook/)
-- [History of OOP](https://youtu.be/wo84LFzx5nI)
-- [Scaling Up!](https://www.youtube.com/watch?v=HChxU74ZwbE) - Talk about software at scale
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) - AI research summaries
+- [Quanta Magazine](https://www.youtube.com/@QuantaScienceChannel) - Math, physics, computer science
+  breakthroughs
