@@ -8,23 +8,29 @@ const state = 'Learning'
 
 ## Favourites
 
-<p>
-<img src="assets/covers/obviously-awesome.jpg" height="180" alt="Obviously Awesome by April Dunford">
-&nbsp;&nbsp;<img src="assets/covers/shape-up.jpg" height="180" alt="Shape Up by Ryan Singer">
-&nbsp;&nbsp;<img src="assets/covers/mom-test.jpg" height="180" alt="The Mom Test by Rob Fitzpatrick">
-&nbsp;&nbsp;<img src="assets/covers/crucial-conversations.jpg" height="180" alt="Crucial Conversations, Third Edition">
-</p>
+<!-- A table, not a paragraph: GitHub's production CSS sets `img { display: block }`
+     inside the README body, so inline images stack vertically instead of forming a row. -->
+<table>
+<tr>
+<td><img src="assets/covers/obviously-awesome.jpg" height="180" alt="Obviously Awesome by April Dunford"></td>
+<td><img src="assets/covers/shape-up.jpg" height="180" alt="Shape Up by Ryan Singer"></td>
+<td><img src="assets/covers/mom-test.jpg" height="180" alt="The Mom Test by Rob Fitzpatrick"></td>
+<td><img src="assets/covers/crucial-conversations.jpg" height="180" alt="Crucial Conversations, Third Edition"></td>
+</tr>
+</table>
 
 ## Recently read
 
-<p>
-<img src="assets/covers/explosive-growth.jpg" height="120" alt="Explosive Growth">
-&nbsp;&nbsp;<img src="assets/covers/traction.jpg" height="120" alt="Traction">
-&nbsp;&nbsp;<img src="assets/covers/how-big-things-get-done.jpg" height="120" alt="How Big Things Get Done">
-&nbsp;&nbsp;<img src="assets/covers/saas-playbook.jpg" height="120" alt="The SaaS Playbook">
-&nbsp;&nbsp;<img src="assets/covers/innovators-dilemma.jpg" height="120" alt="The Innovator's Dilemma">
-&nbsp;&nbsp;<img src="assets/covers/thinking-machine.jpg" height="120" alt="The Thinking Machine">
-</p>
+<table>
+<tr>
+<td><img src="assets/covers/explosive-growth.jpg" height="120" alt="Explosive Growth"></td>
+<td><img src="assets/covers/traction.jpg" height="120" alt="Traction"></td>
+<td><img src="assets/covers/how-big-things-get-done.jpg" height="120" alt="How Big Things Get Done"></td>
+<td><img src="assets/covers/saas-playbook.jpg" height="120" alt="The SaaS Playbook"></td>
+<td><img src="assets/covers/innovators-dilemma.jpg" height="120" alt="The Innovator's Dilemma"></td>
+<td><img src="assets/covers/thinking-machine.jpg" height="120" alt="The Thinking Machine"></td>
+</tr>
+</table>
 
 | Rated | Read | Book | Notes |
 |:--|:--|:--|:--|
