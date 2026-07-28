@@ -5,3 +5,12 @@
 !README.md
 !pycon_notes.md
 !.gitignore
+
+# Book covers shown in the README. Git will not descend into an ignored
+# directory, so each level has to be re-included before the files themselves.
+!assets/
+!assets/covers/
+!assets/covers/*.jpg
+
+!tools/
+!tools/*.py
