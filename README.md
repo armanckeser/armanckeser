@@ -4,7 +4,7 @@
 const state = 'Learning'
 ```
 
-`product` `python` `frontend` `self-hosting` `graphics` `teams` `bootstrapped saas`
+`product` `python` `self-hosting` `graphics` `agents`
 
 ## Favourites
 
